@@ -1,5 +1,5 @@
 body {
-    margin: 10px;
+    margin: 0px;
   }
   .wrapper {
     position: relative;
@@ -11,6 +11,7 @@ body {
   }
   .Mid-Page {
     background: linear-gradient(318.68deg, #0F495C 0%, #0D3640 49.72%, #08141F 100%);
+    padding: 40px;
   }
   .Bottom-Page {
     background: black;
@@ -18,6 +19,7 @@ body {
   h1 {
     text-align: center;
     font-size: 14;
+    margin: 0 0 9px;
   }
   h2 {
     text-align: center;
@@ -30,6 +32,7 @@ body {
   h4 {
     text-align: center;
     font-size: 32;
+    margin: 0px;
   }
   h5 {
     text-align: center;
